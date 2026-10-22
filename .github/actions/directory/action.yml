@@ -2,5 +2,5 @@ name: 'build-plugin'
 author: 'Grandschtroumpf'
 description: 'Create a file with the whole list of plugins'
 runs:
-  using: 'node12'
+  using: 'node24'
   main: 'dist/index.js'
